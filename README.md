@@ -1,4 +1,4 @@
-### BASIC CHARACTER DESIGN
+### BASIC DESIGN
 
 Creating a basic home & stuffs.
 
